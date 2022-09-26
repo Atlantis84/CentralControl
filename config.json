@@ -1,0 +1,53 @@
+{
+    "AlterProduction": [
+        {
+            "BOARD_A_SN": "TG21AM3B80",
+            "BOARD_A_STYLE": "11133TCON-ZJ",
+            "BOARD_SIZE_A": "L=188W=133T=1.2",
+            "HALF_MATERIAL_NUMBER_A": "292147",
+            "MACHINE_STATION_A1": "机台1",
+            "MACHINE_STATION_A2": "机台9",
+            "MACHINE_STATION_A3": "",
+            "MACHINE_STATION_A4": "",
+            "MACHINE_STATION_A5": "",
+            "MACHINE_STYLE_NAME_A": "43A53FUR(0009)",
+            "PROJECT_ID_A": "4140131230"
+        },
+        {
+            "BOARD_B_SN": "TG21BC62KY",
+            "BOARD_B_STYLE": "10545TCON-ZJ",
+            "BOARD_SIZE_B": "L=188.W=133.T=1.6",
+            "HALF_MATERIAL_NUMBER_B": "286050",
+            "MACHINE_STATION_B1": "机台4",
+            "MACHINE_STATION_B2": "机台10",
+            "MACHINE_STATION_B3": "",
+            "MACHINE_STATION_B4": "",
+            "MACHINE_STATION_B5": "",
+            "MACHINE_STYLE_NAME_B": "65E52G(DS)(BOM4)",
+            "PROJECT_ID_B": "4140133429"
+        }
+    ],
+    "AutoLogin": {
+        "AUTO_LOGIN_SIGN": "TRUE",
+        "PASSWORD": "032410395604881",
+        "USER_NAME": "admin"
+    },
+    "IPConfigs": [
+        {
+            "AOI_IP": "192.168.0.123",
+            "CENTRAL_CONTROL_IP": "127.0.0.1",
+            "MES_IP": "172.16.123.202",
+            "REGISTER_IP": "192.168.0.124",
+            "VISUAL_LEAD_IP": "192.168.0.125"
+        }
+    ],
+    "PortConfigs": {
+        "AOI_PORT": "59999",
+        "CENTRAL_CONTROL_PORT": "8080",
+        "COM_BARD_RATE": "115200",
+        "COM_PORT": "COM3",
+        "MES_PORT": "8097",
+        "REGISTER_PORT": "70000",
+        "VISUAL_LEAD_PORT": "80000"
+    }
+}
